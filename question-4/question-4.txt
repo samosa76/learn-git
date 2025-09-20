@@ -1,0 +1,4 @@
+1. Lakukan Clone atau download repository github untuk link berikut https://github.com/samosa76/al-market
+2. Ubahlah nama dengan nama kalian
+3. Jalankan npm run dan tampilkan hasilnnya
+4. screenshoot dan masukan hasil ke folder screenshoot pada question-4
